@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm a-jai-esg!
 
-<!--
-**a-jai-esg/a-jai-esg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I am a Web Developer, CyberSecurity Analyst, and System Administrator with a passion for Software Engineering, System Administration, and all things Tech.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
+- **Languages:** Python, Node.js
+- **Databases:** MySQL, MSSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+I'm currently working on various projects that integrate my skills in web development and cybersecurity. 
+
+## 📫 How to Reach Me
+Feel free to connect with me on [LinkedIn](#) or [Twitter](#).
+
+Thanks for visiting my GitHub profile!
