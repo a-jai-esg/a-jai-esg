@@ -4,7 +4,7 @@
 I am a Web Developer, CyberSecurity Analyst, and System Administrator with a passion for Software Engineering, System Administration, and all things Tech.
 
 ## 🔧 Technologies & Skills
-- **Frameworks** React, React Native, Svelte, Angular
+- **Frameworks:** React, React Native, Svelte, Angular
 - **Languages:** Java, C#.NET, Rust, Python, TypeScript, JavaScript
 - **Databases:** MySQL/MariaDB, SQL Server, MongoDB
 - **Systems:** Debian 12, Ubuntu 24.04
