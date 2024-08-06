@@ -4,8 +4,9 @@
 I am a Web Developer, CyberSecurity Analyst, and System Administrator with a passion for Software Engineering, System Administration, and all things Tech.
 
 ## 🔧 Technologies & Skills
-- **Skills:** Web and Application Development, Data Management, System Administration, CyberSecurity
+- **Skills:** Full Stack Web and Application Development, Data Management, Project Management, System Administration, and CyberSecurity Analysis
 - **Primary Programming Languages:** Java, C#.NET, Python, TypeScript, JavaScript
+- **Databases:** MySQL, MSSQL, MongoDB
 
 ### **Technologies I've Worked With:**
 <div align="center">
@@ -82,8 +83,3 @@ I am a Web Developer, CyberSecurity Analyst, and System Administrator with a pas
 		</tr>
 	</table>
 </div>
-
-## 📫 How to Reach Me
-- Email: <your-email@example.com>
-- LinkedIn: [a-jai-esg](https://www.linkedin.com/in/a-jai-esg)
-- GitHub: [a-jai-esg](https://github.com/a-jai-esg)
