@@ -5,7 +5,7 @@ I am a Web Developer, CyberSecurity Analyst, and System Administrator with a pas
 
 ## 🔧 Technologies & Skills
 - **Skills:** Full Stack Web and Application Development, Data Management, Project Management, System Administration, and CyberSecurity Analysis
-- **Primary Programming Languages:** Java, C#.NET, Python, TypeScript, JavaScript
+- **Primary Programming Languages:** Java, C#.NET, Python, Rust, TypeScript, and JavaScript
 - **Databases:** MySQL, MSSQL, MongoDB
 
 ### **Technologies I've Worked With:**
