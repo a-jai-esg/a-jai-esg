@@ -89,6 +89,10 @@ I am a Web Developer, CyberSecurity Analyst, and System Administrator with a pas
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code></td>
+			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" title="Visual Studio"/></code></td>
+<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" title="Lua"/></code></td>
+<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/08/OpenWrt-logo.svg" alt="OpenWRT" title="OpenWRT"/></code></td>
+
 		</tr>
 	</table>
 </div>
