@@ -92,6 +92,7 @@ I am a Web Developer, CyberSecurity Analyst, and System Administrator with a pas
 			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" title="Visual Studio"/></code></td>
 			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" title="Lua"/></code></td>		
 			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/08/OpenWrt-logo.svg" alt="OpenWRT" title="OpenWRT"/></code></td>
+			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" title="PyTorch"/></code></td>
 		</tr>
 	</table>
 </div>
